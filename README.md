@@ -6,11 +6,11 @@ An interactive business analytics project built using Python, Pandas, Plotly, an
 
 The project transforms raw sales and profitability data into actionable business insights that support:
 
-product profitability analysis,
-gross margin performance evaluation,
-revenue and profit concentration analysis,
-division performance assessment,
-cost optimization opportunities,
-product portfolio optimization,
-seasonal revenue trend analysis, and
-data-driven business decision-making.
+- product profitability analysis,
+- gross margin performance evaluation,
+- revenue and profit concentration analysis,
+- division performance assessment,
+- cost optimization opportunities,
+- product portfolio optimization,
+- seasonal revenue trend analysis, and
+- data-driven business decision-making.
