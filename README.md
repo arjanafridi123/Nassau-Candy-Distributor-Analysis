@@ -172,12 +172,16 @@ The dashboard helps uncover:
 * Product dependency risks caused by reliance on a small number of high-performing products.
 * Actionable insights that support pricing strategy, inventory planning, product portfolio management, and data-driven business decision-making.
 
-# 🚢 Demand & Operational Analysis
+# 📊 Profitability & Business Performance Analysis
+
 The project incorporates:
 
-Hourly, daily, monthly, and seasonal demand analysis.
-Passenger movement tracking using ticket sales and redemption data.
-Peak demand window identification for operational optimization.
-Off-season utilization measurement to evaluate service effectiveness.
-Rolling average trend analysis for long-term demand forecasting.
-This enables data-driven decisions for ferry scheduling, capacity planning, resource allocation, and passenger flow management.
+* Product-level revenue, gross profit, and gross margin analysis.
+* Division-wise profitability and revenue performance evaluation.
+* Revenue and profit concentration analysis using the Pareto Principle (80/20 Rule).
+* Cost diagnostics to identify pricing and supplier optimization opportunities.
+* Product portfolio optimization through low-profit product identification.
+* Monthly revenue, profit, and gross margin trend analysis to monitor business performance.
+* Margin volatility assessment to evaluate pricing consistency and profitability stability.
+
+This enables data-driven decisions for pricing strategy, product portfolio optimization, supplier negotiations, inventory planning, revenue growth, and long-term profitability management.
