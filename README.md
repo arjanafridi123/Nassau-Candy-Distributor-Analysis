@@ -224,3 +224,19 @@ Potential future enhancements include:
 * Real-time sales data integration for continuous profitability monitoring.
 
 These enhancements would further improve pricing strategies, inventory planning, product portfolio optimization, operational efficiency, and long-term business decision-making.
+
+# 🤝 Feedback & Connect
+
+Feedback, suggestions, and improvement ideas are always welcome.
+
+If you'd like to discuss data analytics, business intelligence, profitability analysis, interactive dashboard development, data visualization, or product performance analytics, feel free to connect with me on LinkedIn.
+
+# LinkedIn:
+https://www.linkedin.com/in/md-arjan-afridi-7288b7233
+
+# Email:
+[arjanafridi123@gmail.com](mailto:arjanafridi123@gmail.com)
+
+⭐ If you found this project interesting, consider exploring the interactive dashboard, reviewing the business analysis, and sharing your feedback.
+
+Thank you for visiting this project!
