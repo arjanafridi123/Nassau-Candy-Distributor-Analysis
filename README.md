@@ -14,3 +14,6 @@ The project transforms raw sales and profitability data into actionable business
 - product portfolio optimization,
 - seasonal revenue trend analysis, and
 - data-driven business decision-making.
+
+# 🚀 Live Dashboard
+🔗 Live App: 
