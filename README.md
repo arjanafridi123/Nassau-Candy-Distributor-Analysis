@@ -130,3 +130,16 @@ The analysis transforms transactional sales data into actionable business intell
 | **Highest Revenue Division**         | Business division generating the greatest total revenue                       |
 | **Highest Margin Division**          | Business division achieving the highest average gross margin                  |
 | **Monthly Revenue Trend**            | Revenue performance across different months to identify seasonal patterns     |
+
+# 🛠️ Tech Stack
+
+| Category                    | Technologies                                                                                                    |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Programming Language**    | Python                                                                                                          |
+| **Dashboard Framework**     | Streamlit                                                                                                       |
+| **Data Processing**         | Pandas, NumPy                                                                                                   |
+| **Data Visualization**      | Plotly Express, Plotly Graph Objects, Matplotlib, Seaborn                                                       |
+| **Business Analytics**      | Exploratory Data Analysis (EDA), Profitability Analysis, Margin Analysis, Pareto Analysis, Time-Series Analysis |
+| **Feature Engineering**     | Gross Margin %, Profit Per Unit, Cost Calculation, Date Feature Extraction                                      |
+| **User Interface**          | Streamlit Components, Custom CSS                                                                                |
+| **Deployment**              | Streamlit Community Cloud                                                                                       |
