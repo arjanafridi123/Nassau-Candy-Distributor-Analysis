@@ -158,3 +158,16 @@ The analysis transforms transactional sales data into actionable business intell
 | **Time-Based Performance Analysis** | Monitor monthly revenue, profit, gross margin, and yearly business performance trends                 |
 | **Interactive Tables**              | Explore detailed product, division, cost, and time-based summary tables                               |
 | **Business Insights**               | Executive insight callouts and recommendations integrated throughout the dashboard                    |
+
+# 💡 Business Insights Generated
+
+The dashboard helps uncover:
+
+* The products contributing the highest revenue, gross profit, and gross margin.
+* Revenue and profit concentration risks using Pareto Analysis.
+* Business divisions driving overall sales and profitability.
+* Low-margin and high-cost products requiring pricing or supplier cost optimization.
+* Products suitable for portfolio optimization or discontinuation review.
+* Monthly revenue, gross profit, and gross margin trends to identify seasonal business patterns.
+* Product dependency risks caused by reliance on a small number of high-performing products.
+* Actionable insights that support pricing strategy, inventory planning, product portfolio management, and data-driven business decision-making.
