@@ -96,3 +96,22 @@ The analysis transforms transactional sales data into actionable business intell
 * Monthly gross margin trend analysis
 * Margin volatility assessment
 * Year-over-year business performance monitoring
+
+# 📋 Business KPI Analysis
+
+* Revenue performance tracking
+* Gross profit monitoring
+* Gross margin (%) analysis
+* Product contribution assessment
+* Revenue and profit concentration measurement
+* Margin volatility analysis
+
+# 🎯 Business Insights & Optimization
+
+* Identify high-profit and high-margin products
+* Detect low-margin products requiring pricing or cost optimization
+* Evaluate division-wise business performance
+* Reduce dependency on a limited number of products
+* Support supplier cost renegotiation decisions
+* Optimize product portfolio through discontinuation and expansion strategies
+* Enable data-driven pricing, inventory, and profitability decisions
