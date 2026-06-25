@@ -171,3 +171,13 @@ The dashboard helps uncover:
 * Monthly revenue, gross profit, and gross margin trends to identify seasonal business patterns.
 * Product dependency risks caused by reliance on a small number of high-performing products.
 * Actionable insights that support pricing strategy, inventory planning, product portfolio management, and data-driven business decision-making.
+
+# 🚢 Demand & Operational Analysis
+The project incorporates:
+
+Hourly, daily, monthly, and seasonal demand analysis.
+Passenger movement tracking using ticket sales and redemption data.
+Peak demand window identification for operational optimization.
+Off-season utilization measurement to evaluate service effectiveness.
+Rolling average trend analysis for long-term demand forecasting.
+This enables data-driven decisions for ferry scheduling, capacity planning, resource allocation, and passenger flow management.
