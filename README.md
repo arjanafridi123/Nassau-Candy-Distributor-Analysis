@@ -54,3 +54,45 @@ The analysis transforms transactional sales data into actionable business intell
 * Increase profitability through margin-focused strategies
 * Monitor business performance using an interactive Streamlit dashboard
 * Support data-driven strategic planning and financial decision-making
+
+# 📊 Core Analytical Areas
+
+# 💰 Product Profitability Analysis
+
+* Top revenue-generating products
+* Top gross profit contributors
+* Gross margin performance analysis
+* Product profitability comparison
+* High-margin vs low-margin product identification
+
+# 🏢 Division Performance Analysis
+
+* Revenue by division
+* Gross profit by division
+* Gross margin comparison across divisions
+* Division-wise profitability evaluation
+* Business unit performance assessment
+
+# 💵 Cost Structure Diagnostics
+
+* Cost vs Sales relationship analysis
+* Product cost efficiency evaluation
+* Cost renegotiation opportunity identification
+* Low-margin product detection
+* Products recommended for discontinuation review
+
+# 🎯 Profit Concentration & Risk Analysis
+
+* Revenue Pareto Analysis (80/20 Rule)
+* Profit Pareto Analysis
+* Product dependency indicators
+* Revenue concentration assessment
+* Product concentration risk evaluation
+
+# 📅 Time-Based Business Performance
+
+* Monthly revenue trend analysis
+* Monthly gross profit trend analysis
+* Monthly gross margin trend analysis
+* Margin volatility assessment
+* Year-over-year business performance monitoring
