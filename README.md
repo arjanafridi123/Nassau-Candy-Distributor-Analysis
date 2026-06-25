@@ -185,3 +185,27 @@ The project incorporates:
 * Margin volatility assessment to evaluate pricing consistency and profitability stability.
 
 This enables data-driven decisions for pricing strategy, product portfolio optimization, supplier negotiations, inventory planning, revenue growth, and long-term profitability management.
+
+# Project Structure
+
+
+
+# 🎓 Key Learnings
+
+Through this project, I gained hands-on experience in:
+
+* Exploratory Data Analysis (EDA) and business storytelling.
+* Product profitability and gross margin analysis.
+* Revenue and profit concentration analysis using the Pareto Principle.
+* Building interactive business intelligence dashboards with Streamlit and Plotly.
+* Developing KPI-driven dashboards for profitability monitoring and decision-making.
+* Transforming transactional sales data into actionable business insights.
+
+The project also strengthened my understanding of:
+
+* Profitability analysis and financial performance evaluation.
+* Product portfolio optimization and cost diagnostics.
+* Revenue concentration and business dependency analysis.
+* Time-series analysis for revenue, profit, and margin trends.
+* Data visualization best practices and dashboard design.
+* Deploying interactive analytics applications using Streamlit Community Cloud.
