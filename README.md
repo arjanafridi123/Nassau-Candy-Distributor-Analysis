@@ -20,4 +20,5 @@ The project transforms raw sales and profitability data into actionable business
 
 # 📚 Citation
 Product Line Profitability & Margin Performance Analysis for Nassau Candy Distributor.
+
 📄 Research Report:
