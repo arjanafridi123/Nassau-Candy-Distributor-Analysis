@@ -20,6 +20,7 @@ The project transforms raw sales and profitability data into actionable business
 
 # 📚 Citation
 Afridi, M. A. (2026). Product Line Profitability & Margin Performance Analysis for Nassau Candy Distributor.
+
 📄 Research Report: https://doi.org/10.5281/zenodo.20844763
 
 # 🎯 Problem → Solution → Impact
