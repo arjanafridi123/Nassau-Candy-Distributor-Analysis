@@ -142,5 +142,4 @@ The analysis transforms transactional sales data into actionable business intell
 | **Business Analytics**      | Exploratory Data Analysis (EDA), Profitability Analysis, Margin Analysis, Pareto Analysis, Time-Series Analysis |
 | **Feature Engineering**     | Gross Margin %, Profit Per Unit, Cost Calculation, Date Feature Extraction                                      |
 | **User Interface**          | Streamlit Components, Custom CSS                                                                                |
-| **Development Environment** | Jupyter Notebook                                                                                                |
 | **Deployment**              | Streamlit Community Cloud                                                                                       |
