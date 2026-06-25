@@ -209,3 +209,18 @@ The project also strengthened my understanding of:
 * Time-series analysis for revenue, profit, and margin trends.
 * Data visualization best practices and dashboard design.
 * Deploying interactive analytics applications using Streamlit Community Cloud.
+
+# 🚀 Future Improvements
+
+Potential future enhancements include:
+
+* Product demand forecasting using Machine Learning.
+* Revenue and gross profit prediction models.
+* Customer segmentation and purchasing behavior analysis.
+* Dynamic pricing optimization based on profitability.
+* Inventory optimization and stock replenishment recommendations.
+* Supplier performance and procurement cost analysis.
+* Automated business reporting and executive dashboard generation.
+* Real-time sales data integration for continuous profitability monitoring.
+
+These enhancements would further improve pricing strategies, inventory planning, product portfolio optimization, operational efficiency, and long-term business decision-making.
