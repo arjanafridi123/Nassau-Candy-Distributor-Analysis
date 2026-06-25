@@ -16,7 +16,7 @@ The project transforms raw sales and profitability data into actionable business
 - data-driven business decision-making.
 
 # 🚀 Live Dashboard
-🔗 Live App: 
+🔗 Live App: https://arjanafridi123-nassau-candy-distributor-analysis-app-ofukmi.streamlit.app/
 
 # 📚 Citation
 Product Line Profitability & Margin Performance Analysis for Nassau Candy Distributor.
