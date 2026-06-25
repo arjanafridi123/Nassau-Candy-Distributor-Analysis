@@ -143,3 +143,18 @@ The analysis transforms transactional sales data into actionable business intell
 | **Feature Engineering**     | Gross Margin %, Profit Per Unit, Cost Calculation, Date Feature Extraction                                      |
 | **User Interface**          | Streamlit Components, Custom CSS                                                                                |
 | **Deployment**              | Streamlit Community Cloud                                                                                       |
+
+# ✨ Dashboard Features
+
+| Feature                             | Description                                                                                           |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Interactive Filters**             | Filter data by date range, division, region, country, state, product, and gross margin threshold      |
+| **Executive KPI Dashboard**         | Monitor Total Revenue, Gross Profit, Average Gross Margin, Profit per Unit, and Margin Volatility     |
+| **Executive Summary**               | Highlights key business metrics and the most profitable product                                       |
+| **Product Profitability Analysis**  | Analyze top-performing products by gross profit and gross margin                                      |
+| **Division Performance Dashboard**  | Compare revenue, gross profit, and margin performance across business divisions                       |
+| **Cost Diagnostics**                | Evaluate cost vs sales relationships and identify low-margin products                                 |
+| **Profit Concentration Analysis**   | Perform Revenue & Profit Pareto Analysis with dependency indicators and concentration risk assessment |
+| **Time-Based Performance Analysis** | Monitor monthly revenue, profit, gross margin, and yearly business performance trends                 |
+| **Interactive Tables**              | Explore detailed product, division, cost, and time-based summary tables                               |
+| **Business Insights**               | Executive insight callouts and recommendations integrated throughout the dashboard                    |
